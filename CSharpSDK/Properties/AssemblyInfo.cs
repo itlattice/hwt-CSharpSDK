@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("CSharpSDK")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("花务通新开放平台C# SDK")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CSharpSDK")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("Copyright ©  2024 IBOXS")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
